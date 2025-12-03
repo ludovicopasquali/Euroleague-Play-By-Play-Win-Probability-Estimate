@@ -1,0 +1,31 @@
+# Data (keep only sample placeholder CSVs)
+data/raw/*
+!data/raw/sample_pbp.csv
+
+data/processed/*
+!data/processed/sample_features.csv
+
+# Notebook checkpoints and cache
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+.env.*
+
+# OS files
+.DS_Store
+
+# Reports/artifacts
+reports/figures/*
+reports/tables/*
+*.log
+*.tmp
+
+# Persisted models
+models/*

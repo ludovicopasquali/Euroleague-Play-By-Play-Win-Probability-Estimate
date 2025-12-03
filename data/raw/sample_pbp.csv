@@ -1,0 +1,10 @@
+season_id,game_id,action_number,period,home_score,away_score,remaining_period_time,type,team_id,opponent_id,player_id,details
+23-24,GAME001,1,1,0,0,600.0,GS,HOME,AWAY,,jump_ball_start
+23-24,GAME001,2,1,0,0,599.0,JBW,AWAY,HOME,,jump_ball_won
+23-24,GAME001,3,1,0,0,598.5,TO,AWAY,HOME,,turnover
+23-24,GAME001,4,1,2,0,597.0,2FGM,HOME,AWAY,,two_point_made
+23-24,GAME001,5,1,2,2,595.0,2FGM,AWAY,HOME,,two_point_made
+23-24,GAME001,6,1,5,2,592.0,3FGM,HOME,AWAY,,three_point_made
+23-24,GAME001,7,1,5,4,590.0,2FGM,AWAY,HOME,,two_point_made
+23-24,GAME001,8,1,7,4,588.0,2FGM,HOME,AWAY,,two_point_made
+23-24,GAME001,9,1,7,7,585.0,3FGM,AWAY,HOME,,three_point_made
